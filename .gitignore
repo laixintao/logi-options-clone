@@ -1,0 +1,3 @@
+.build/
+*.log
+mouse-config.json
